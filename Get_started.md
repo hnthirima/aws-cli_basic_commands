@@ -19,4 +19,4 @@
 * CLI default output format => press Enter
 * CLI profile name => 
   ``` To use this profile, specify the profile name using --profile, as shown
-   ``` aws s3 ls --profile default ```
+  aws s3 ls --profile default
