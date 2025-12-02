@@ -20,3 +20,9 @@
 * CLI profile name => 
   ``` To use this profile, specify the profile name using --profile, as shown
   aws s3 ls --profile default
+
+
+* Run ``` aws sso login ``` in your terminal to initiate an SSO session
+* Once logged in, use AWS CLI commands as usual
+
+* Note: SSO session has a set expiration time. 
