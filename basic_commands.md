@@ -5,7 +5,7 @@
 ``` aws s3 ls --recursive --summarize s3://fh-pi-name-f-eco/directory1/directory2```
 
 ## Use quotations to use a directory name with spaces 
-*Ideally do not use spaces in names!!
+* Ideally do not use spaces in names!!
 ``` aws s3 ls "s3://fh-pi-name-f-eco/test final.txt" ```
 
 ## Delete a file from S3
